@@ -7,3 +7,5 @@ intent-filter
      data android:scheme="tel"
 intent-filter
 设置在主活动，不知道是不是这个原因，暂时没解决。
+
+![Image text](https://github.com/playerCC/AndroidHomework5-lv3/blob/master/ima_app/1.png)
