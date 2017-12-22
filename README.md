@@ -8,4 +8,10 @@ intent-filter
 intent-filter
 设置在主活动，不知道是不是这个原因，暂时没解决。
 
-![Image text](https://github.com/playerCC/AndroidHomework5-lv3/blob/master/ima_app/1.png)
+![Image text](https://github.com/playerCC/AndroidHomework6-lv3/blob/master/APP%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20171222233323.png)
+![Image text](https://github.com/playerCC/AndroidHomework6-lv3/blob/master/APP%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20171222233341.png)
+![Image text](https://github.com/playerCC/AndroidHomework6-lv3/blob/master/APP%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20171222233349.png)
+![Image text](https://github.com/playerCC/AndroidHomework6-lv3/blob/master/APP%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20171222233415.png)
+![Image text](https://github.com/playerCC/AndroidHomework6-lv3/blob/master/APP%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20171222233420.png)
+![Image text](https://github.com/playerCC/AndroidHomework6-lv3/blob/master/APP%E6%88%AA%E5%9B%BE/QQ%E6%88%AA%E5%9B%BE20171222233545.png)
+
